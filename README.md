@@ -10,6 +10,7 @@ GK的个人博客
 
 ### 最新
 
+* [天罚](https://www.gumkey.com/articles/2019/08/12/1565603322689.html)
 * [《TensorFlow2.0》Keras实现递归神经网络RNN（四）](https://www.gumkey.com/articles/2019/08/11/1565527186252.html)
 * [《TensorFlow2.0》Keras实现卷积神经网络CNN（三）](https://www.gumkey.com/articles/2019/08/11/1565527152005.html)
 * [《TensorFlow2.0》Keras实现循环神经网络RNN（二）](https://www.gumkey.com/articles/2019/08/11/1565526875441.html)
@@ -29,7 +30,6 @@ GK的个人博客
 * [资源下载](https://www.gumkey.com/download.html)
 * [golang接口（六）](https://www.gumkey.com/articles/2019/08/01/1564673637582.html)
 * [golang指针（五）](https://www.gumkey.com/articles/2019/08/01/1564673557831.html)
-* [golang的类（四）](https://www.gumkey.com/articles/2019/08/01/1564673446852.html)
 
 ### 热门
 
@@ -41,6 +41,7 @@ GK的个人博客
 * [赞助作者](https://www.gumkey.com/support)
 * [clickhouse入门（一）](https://www.gumkey.com/articles/2019/07/25/1564043680282.html)
 * [golang函数（三）](https://www.gumkey.com/articles/2019/08/01/1564673330576.html)
+* [golang的类（四）](https://www.gumkey.com/articles/2019/08/01/1564673446852.html)
 
 
 
