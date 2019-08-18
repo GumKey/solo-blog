@@ -39,8 +39,8 @@ GK的个人博客
 * [golang入门（一）](https://www.gumkey.com/articles/2019/07/25/1564042752679.html)
 * [golang基础语法（二）](https://www.gumkey.com/articles/2019/08/01/1564673293975.html)
 * [赞助作者](https://www.gumkey.com/support)
-* [clickhouse入门（一）](https://www.gumkey.com/articles/2019/07/25/1564043680282.html)
 * [golang函数（三）](https://www.gumkey.com/articles/2019/08/01/1564673330576.html)
+* [clickhouse入门（一）](https://www.gumkey.com/articles/2019/07/25/1564043680282.html)
 * [golang的类（四）](https://www.gumkey.com/articles/2019/08/01/1564673446852.html)
 
 
