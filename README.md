@@ -12,8 +12,8 @@ GK的个人博客
 
 * [天罚](https://www.gumkey.com/articles/2019/08/12/1565603322689.html)
 * [《TensorFlow2.0》Keras实现递归神经网络RNN（四）](https://www.gumkey.com/articles/2019/08/11/1565527186252.html)
-* [《TensorFlow2.0》Keras实现卷积神经网络CNN（三）](https://www.gumkey.com/articles/2019/08/11/1565527152005.html)
-* [《TensorFlow2.0》Keras实现循环神经网络RNN（二）](https://www.gumkey.com/articles/2019/08/11/1565526875441.html)
+* [《TensorFlow2.0》Keras实现循环神经网络RNN（三）](https://www.gumkey.com/articles/2019/08/11/1565527152005.html)
+* [《TensorFlow2.0》Keras实现卷积神经网络CNN（二）](https://www.gumkey.com/articles/2019/08/11/1565526875441.html)
 * [《python元编程》元类](https://www.gumkey.com/articles/2019/08/09/1565321805068.html)
 * [《python元编程》属性描述符](https://www.gumkey.com/articles/2019/08/09/1565321729703.html)
 * [《python元编程》类工厂函数](https://www.gumkey.com/articles/2019/08/09/1565321651236.html)
