@@ -1,4 +1,4 @@
-<p align="center"><img alt="GK的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="GK的个人博客" src="https://img.hacpai.com/file/2019/08/1351557457704.pichd-57b6f439.jpg"></p><h2 align="center">
 GK的个人博客
 </h2>
 
@@ -10,7 +10,7 @@ GK的个人博客
 
 ### 最新
 
-* [天罚](https://www.gumkey.com/articles/2019/08/12/1565603322689.html)
+* [【天罚】第一章：上大学啦](https://www.gumkey.com/articles/2019/08/12/1565603322689.html)
 * [《TensorFlow2.0》Keras实现递归神经网络RNN（四）](https://www.gumkey.com/articles/2019/08/11/1565527186252.html)
 * [《TensorFlow2.0》Keras实现循环神经网络RNN（三）](https://www.gumkey.com/articles/2019/08/11/1565527152005.html)
 * [《TensorFlow2.0》Keras实现卷积神经网络CNN（二）](https://www.gumkey.com/articles/2019/08/11/1565526875441.html)
