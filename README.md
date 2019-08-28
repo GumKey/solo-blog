@@ -10,6 +10,9 @@ GK的个人博客
 
 ### 最新
 
+* [《TensorFlow2.0》成本函数](https://www.gumkey.com/articles/2019/08/27/1566916841041.html)
+* [《TensorFlow2.0》优化算法](https://www.gumkey.com/articles/2019/08/27/1566916172654.html)
+* [《TensorFlow2.0》正则化](https://www.gumkey.com/articles/2019/08/27/1566912061246.html)
 * [《TensorFlow2.0》前馈神经网络和BP算法](https://www.gumkey.com/articles/2019/08/26/1566800504453.html)
 * [【天罚】第一章：上大学啦](https://www.gumkey.com/articles/2019/08/12/1565603322689.html)
 * [《TensorFlow2.0》Keras实现递归神经网络RNN（四）](https://www.gumkey.com/articles/2019/08/11/1565527186252.html)
@@ -27,20 +30,20 @@ GK的个人博客
 * [《TensorFlow2.0》低阶api入门](https://www.gumkey.com/articles/2019/08/02/1564760506381.html)
 * [golang并发（九）](https://www.gumkey.com/articles/2019/08/02/1564759890939.html)
 * [golang错误处理（八）](https://www.gumkey.com/articles/2019/08/02/1564759716911.html)
-* [golang数据处理（七）](https://www.gumkey.com/articles/2019/08/02/1564759682812.html)
-* [资源下载](https://www.gumkey.com/download.html)
-* [golang接口（六）](https://www.gumkey.com/articles/2019/08/01/1564673637582.html)
 
 ### 热门
 
+* [golang数据处理（七）](https://www.gumkey.com/articles/2019/08/02/1564759682812.html)
 * [我在 GitHub 上的开源项目](https://www.gumkey.com/my-github-repos)
 * [关于GK](https://www.gumkey.com/about.html)
 * [文章分类](https://www.gumkey.com/category.html)
+* [资源下载](https://www.gumkey.com/download.html)
 * [golang入门（一）](https://www.gumkey.com/articles/2019/07/25/1564042752679.html)
 * [golang基础语法（二）](https://www.gumkey.com/articles/2019/08/01/1564673293975.html)
 * [golang指针（五）](https://www.gumkey.com/articles/2019/08/01/1564673557831.html)
 * [赞助作者](https://www.gumkey.com/support)
 * [golang函数（三）](https://www.gumkey.com/articles/2019/08/01/1564673330576.html)
+* [golang接口（六）](https://www.gumkey.com/articles/2019/08/01/1564673637582.html)
 * [clickhouse入门（一）](https://www.gumkey.com/articles/2019/07/25/1564043680282.html)
 * [golang的类（四）](https://www.gumkey.com/articles/2019/08/01/1564673446852.html)
 
