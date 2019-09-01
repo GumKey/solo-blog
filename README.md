@@ -10,6 +10,8 @@ GK的个人博客
 
 ### 最新
 
+* [【天罚】目录](https://www.gumkey.com/articles/2019/08/31/1567237429937.html)
+* [【天罚】第一章：风云人物](https://www.gumkey.com/articles/2019/08/31/1567236862594.html)
 * [《爆走水管》游戏idea](https://www.gumkey.com/articles/2019/08/29/1567079198169.html)
 * [《TensorFlow2.0》成本函数](https://www.gumkey.com/articles/2019/08/27/1566916841041.html)
 * [《TensorFlow2.0》优化算法](https://www.gumkey.com/articles/2019/08/27/1566916172654.html)
@@ -28,11 +30,10 @@ GK的个人博客
 * [Docker部署go项目](https://www.gumkey.com/articles/2019/08/07/1565190912018.html)
 * [《TensorFlow2.0》Keras_api序贯模型和函数式模型（二）](https://www.gumkey.com/articles/2019/08/05/1565001084879.html)
 * [《TensorFlow2.0》Keras高阶api入门（一）](https://www.gumkey.com/articles/2019/08/04/1564931068743.html)
-* [《TensorFlow2.0》低阶api入门](https://www.gumkey.com/articles/2019/08/02/1564760506381.html)
-* [golang并发（九）](https://www.gumkey.com/articles/2019/08/02/1564759890939.html)
 
 ### 热门
 
+* [《TensorFlow2.0》低阶api入门](https://www.gumkey.com/articles/2019/08/02/1564760506381.html)
 * [golang数据处理（七）](https://www.gumkey.com/articles/2019/08/02/1564759682812.html)
 * [我在 GitHub 上的开源项目](https://www.gumkey.com/my-github-repos)
 * [关于GK](https://www.gumkey.com/about.html)
@@ -40,9 +41,10 @@ GK的个人博客
 * [资源下载](https://www.gumkey.com/download.html)
 * [golang入门（一）](https://www.gumkey.com/articles/2019/07/25/1564042752679.html)
 * [golang基础语法（二）](https://www.gumkey.com/articles/2019/08/01/1564673293975.html)
-* [golang接口（六）](https://www.gumkey.com/articles/2019/08/01/1564673637582.html)
-* [golang函数（三）](https://www.gumkey.com/articles/2019/08/01/1564673330576.html)
 * [golang指针（五）](https://www.gumkey.com/articles/2019/08/01/1564673557831.html)
+* [golang接口（六）](https://www.gumkey.com/articles/2019/08/01/1564673637582.html)
+* [golang并发（九）](https://www.gumkey.com/articles/2019/08/02/1564759890939.html)
+* [golang函数（三）](https://www.gumkey.com/articles/2019/08/01/1564673330576.html)
 * [golang错误处理（八）](https://www.gumkey.com/articles/2019/08/02/1564759716911.html)
 * [赞助作者](https://www.gumkey.com/support)
 * [clickhouse入门（一）](https://www.gumkey.com/articles/2019/07/25/1564043680282.html)
