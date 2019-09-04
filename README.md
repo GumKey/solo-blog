@@ -10,7 +10,9 @@ GK的个人博客
 
 ### 最新
 
-* [【天罚】目录](https://www.gumkey.com/articles/2019/08/31/1567237429937.html)
+* [《三易传》天命玄鸟（2）](https://www.gumkey.com/articles/2019/09/03/1567499968384.html)
+* [《三易传》天命玄鸟（1）](https://www.gumkey.com/articles/2019/09/03/1567498087478.html)
+* [《三易传》【目录】](https://www.gumkey.com/articles/2019/08/31/1567237429937.html)
 * [【天罚】第一章：风云人物](https://www.gumkey.com/articles/2019/08/31/1567236862594.html)
 * [《爆走水管》游戏idea](https://www.gumkey.com/articles/2019/08/29/1567079198169.html)
 * [《TensorFlow2.0》成本函数](https://www.gumkey.com/articles/2019/08/27/1566916841041.html)
@@ -28,8 +30,6 @@ GK的个人博客
 * [《python函数》递归进阶](https://www.gumkey.com/articles/2019/08/09/1565318821075.html)
 * [《Cocos Creator》开发超级玛丽（一）](https://www.gumkey.com/articles/2019/08/07/1565192914735.html)
 * [Docker部署go项目](https://www.gumkey.com/articles/2019/08/07/1565190912018.html)
-* [《TensorFlow2.0》Keras_api序贯模型和函数式模型（二）](https://www.gumkey.com/articles/2019/08/05/1565001084879.html)
-* [《TensorFlow2.0》Keras高阶api入门（一）](https://www.gumkey.com/articles/2019/08/04/1564931068743.html)
 
 ### 热门
 
@@ -39,6 +39,7 @@ GK的个人博客
 * [关于GK](https://www.gumkey.com/about.html)
 * [文章分类](https://www.gumkey.com/category.html)
 * [资源下载](https://www.gumkey.com/download.html)
+* [《TensorFlow2.0》Keras高阶api入门（一）](https://www.gumkey.com/articles/2019/08/04/1564931068743.html)
 * [golang入门（一）](https://www.gumkey.com/articles/2019/07/25/1564042752679.html)
 * [golang基础语法（二）](https://www.gumkey.com/articles/2019/08/01/1564673293975.html)
 * [golang函数（三）](https://www.gumkey.com/articles/2019/08/01/1564673330576.html)
@@ -47,8 +48,9 @@ GK的个人博客
 * [golang并发（九）](https://www.gumkey.com/articles/2019/08/02/1564759890939.html)
 * [golang错误处理（八）](https://www.gumkey.com/articles/2019/08/02/1564759716911.html)
 * [赞助作者](https://www.gumkey.com/support)
-* [clickhouse入门（一）](https://www.gumkey.com/articles/2019/07/25/1564043680282.html)
 * [golang的类（四）](https://www.gumkey.com/articles/2019/08/01/1564673446852.html)
+* [clickhouse入门（一）](https://www.gumkey.com/articles/2019/07/25/1564043680282.html)
+* [《TensorFlow2.0》Keras_api序贯模型和函数式模型（二）](https://www.gumkey.com/articles/2019/08/05/1565001084879.html)
 
 
 
