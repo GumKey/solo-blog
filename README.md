@@ -35,8 +35,8 @@ GK的个人博客
 
 * [《TensorFlow2.0》低阶api入门](https://www.gumkey.com/articles/2019/08/02/1564760506381.html)
 * [golang数据处理（七）](https://www.gumkey.com/articles/2019/08/02/1564759682812.html)
-* [我在 GitHub 上的开源项目](https://www.gumkey.com/my-github-repos)
 * [关于GK](https://www.gumkey.com/about.html)
+* [我在 GitHub 上的开源项目](https://www.gumkey.com/my-github-repos)
 * [文章分类](https://www.gumkey.com/category.html)
 * [资源下载](https://www.gumkey.com/download.html)
 * [《TensorFlow2.0》Keras高阶api入门（一）](https://www.gumkey.com/articles/2019/08/04/1564931068743.html)
