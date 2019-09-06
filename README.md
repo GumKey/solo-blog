@@ -10,7 +10,6 @@ GK的个人博客
 
 ### 最新
 
-* [tt](https://www.gumkey.com/demo1)
 * [《爆走水管》游戏idea](https://www.gumkey.com/articles/2019/08/29/1567079198169.html)
 * [《TensorFlow2.0》成本函数](https://www.gumkey.com/articles/2019/08/27/1566916841041.html)
 * [《TensorFlow2.0》优化算法](https://www.gumkey.com/articles/2019/08/27/1566916172654.html)
@@ -30,16 +29,16 @@ GK的个人博客
 * [《TensorFlow2.0》低阶api入门](https://www.gumkey.com/articles/2019/08/02/1564760506381.html)
 * [golang并发（九）](https://www.gumkey.com/articles/2019/08/02/1564759890939.html)
 * [golang错误处理（八）](https://www.gumkey.com/articles/2019/08/02/1564759716911.html)
+* [golang数据处理（七）](https://www.gumkey.com/articles/2019/08/02/1564759682812.html)
 
 ### 热门
 
-* [golang数据处理（七）](https://www.gumkey.com/articles/2019/08/02/1564759682812.html)
 * [golang入门（一）](https://www.gumkey.com/articles/2019/07/25/1564042752679.html)
 * [golang基础语法（二）](https://www.gumkey.com/articles/2019/08/01/1564673293975.html)
 * [golang函数（三）](https://www.gumkey.com/articles/2019/08/01/1564673330576.html)
 * [golang指针（五）](https://www.gumkey.com/articles/2019/08/01/1564673557831.html)
-* [golang接口（六）](https://www.gumkey.com/articles/2019/08/01/1564673637582.html)
 * [golang的类（四）](https://www.gumkey.com/articles/2019/08/01/1564673446852.html)
+* [golang接口（六）](https://www.gumkey.com/articles/2019/08/01/1564673637582.html)
 
 
 
