@@ -34,10 +34,10 @@ GK的个人博客
 ### 热门
 
 * [golang入门（一）](https://www.gumkey.com/articles/2019/07/25/1564042752679.html)
-* [golang的类（四）](https://www.gumkey.com/articles/2019/08/01/1564673446852.html)
 * [golang基础语法（二）](https://www.gumkey.com/articles/2019/08/01/1564673293975.html)
-* [golang指针（五）](https://www.gumkey.com/articles/2019/08/01/1564673557831.html)
+* [golang的类（四）](https://www.gumkey.com/articles/2019/08/01/1564673446852.html)
 * [golang接口（六）](https://www.gumkey.com/articles/2019/08/01/1564673637582.html)
+* [golang指针（五）](https://www.gumkey.com/articles/2019/08/01/1564673557831.html)
 * [golang函数（三）](https://www.gumkey.com/articles/2019/08/01/1564673330576.html)
 
 
